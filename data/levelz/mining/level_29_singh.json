@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "level": 29,
+  "block": [
+    "geode:budding_wrappist",
+    "geode:wrappist_block"
+  ]
+}

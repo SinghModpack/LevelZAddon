@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "level": 77,
+  "block": [
+    "immersiveores:raw_vulpus_block",
+    "immersiveores:vulpus_ore"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "level": 53,
+  "block": [
+    "ends_delight:end_stove",
+    "immersiveores:vibranium_block"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "level": 54,
+  "block": [
+    "mythicmetals:deepslate_mythril_ore",
+    "mythicmetals:mythril_ore"
+  ]
+}
